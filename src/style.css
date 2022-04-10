@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Parisienne&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+    font-family: 'Parisienne', cursive;
+}
+
+.body-text {
+    font-family: 'Caveat', cursive;
+}
